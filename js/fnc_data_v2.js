@@ -67,7 +67,6 @@ var ary_CharacterData = [
   [1, "Houshou Marine",   [0,0,0,0,1,0,0], "gen3/houshoumarine.png"],
   [1, "Amane Kanata",     [0,0,0,0,0,1,0], "gen4/amanekanata.png"],
   [1, "Kiryu Coco",       [0,0,0,0,0,1,0], "gen4/kiryucoco.png"],
-  [1, "Kiryu Coco",       [0,0,0,0,0,1,0], "gen4/kiryucoco.png"],
   [1, "Tsunomaki Watame", [0,0,0,0,0,1,0], "gen4/tsunomakiwatame.png"],
   [1, "Tokoyami Towa",    [0,0,0,0,0,1,0], "gen4/tokoyamitowa.png"],
   [1, "Himemori Luna",    [0,0,0,0,0,1,0], "gen4/himemoriluna.png"],
