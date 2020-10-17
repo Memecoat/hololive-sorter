@@ -1,5 +1,5 @@
 body { 
-	background-color: #FFD1DC;
+	background-color: #4DA7D6;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 16px;
 	color: #000;
@@ -16,11 +16,11 @@ a, a:hover {
 
 #btn-rawtext {
 	cursor: pointer;
-	color: #FFD1DC;
-	background-color: #000038;
+	color: #F9F9FB;
+	background-color: #166C94;
 	width: 150px;
 	padding: 2px;
-	border: 3px solid #F0027E;
+	border: 3px solid #053247;
 	border-radius: 10px;
 }
 
@@ -31,10 +31,10 @@ a, a:hover {
 	height: 50px;
 	top: 0px;
 	left: 0px;
-	background-color: #000038;
+	background-color: #5b4a71;
 	z-index: 1;
   text-align: center;
-  border-bottom-color: #F0027E;
+  border-bottom-color: #31283D;
   border-bottom-width: 5px;
   border-bottom-style: solid;
 }
@@ -44,7 +44,7 @@ a, a:hover {
   height: 100%;
   bottom: 50px;
   float: left;
-  border-left-color: #F0027E;
+  border-left-color: #31283D;
   border-left-width: 2px;
   border-left-style: solid;
 }
@@ -62,7 +62,7 @@ a, a:hover {
 }
 
 .resTable thead {
-  background-color: #000038;
+  background-color: #5D767A;
   color: #fff;
 }
 
